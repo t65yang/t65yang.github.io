@@ -2,5 +2,5 @@
 
 ## Welcome to my homepage!
 
-- [Home](t65yang.github.io)
-- [About](/about.html)
+- [Home](https://t65yang.github.io)
+- [About](https://t65yang.github.io/about.html)
