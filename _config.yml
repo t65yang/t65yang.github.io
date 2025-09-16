@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: t65yang's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+# Add navigation menu
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
