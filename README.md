@@ -1,6 +1,6 @@
 # FLAMINGO site
 
-Welcome to my homepage!
+## Welcome to my homepage!
 
-- [Home](/)
+- [Home](t65yang.github.io)
 - [About](/about.html)
